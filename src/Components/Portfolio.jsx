@@ -19,9 +19,18 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
-
-const imageAltText = "desktop with books and laptop";
+import image from "../images/desk.png";
+const imageAltText = "minimalistic desk with a laptop, notebook and plant";
+/**
+ * Project list image
+ *
+ * Below is a sample image. Upload the image of your choice into the "images"
+ * directory and import here for use. Then, set imageAltText to string that 
+ * represents what you see in that image.
+ *
+ * Need an image? Check out https://unsplash.com to download a photo you
+ * freely use on your site.
+ */
 
 /**
  * Project list
